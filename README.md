@@ -16,4 +16,4 @@ source bin/activate
 pip3 install -r requirements.txt
 ```
 
-See [Getting Started With Plex](https://userclouds.com/getting-started-with-plex) for a more detailed guide.
+See [Getting Started With Plex](https://documentation.userclouds.com/home/authentication/sample-app) for a more detailed guide.
